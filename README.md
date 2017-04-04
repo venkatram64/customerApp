@@ -10,7 +10,3 @@ to start the application
 nodemon
 
 
-username srijan.veera@gmail.com
-password p@g32000
-
-m1lkyw9y2000
